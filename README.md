@@ -3,7 +3,7 @@
 - 🌱 **Past**: An NSF postdoctoral fellow at the University of Texas.
 - :rocket: **Current**: Starting January 2024, I joined NASA Goddard Space Flight Center.
 - 💞️ **Teamwork**: I contribute to several packages and software, including the [ParaMonte](https://github.com/cdslaborg/paramonte) Machine Learning library.
-- 📫 Feel free to reach out to me for potential collaborations. Chao!
+- 📫 **Contact** I look forward to chatting with you on GitHub for potential collaborations. Chao!
 
 <!---
 fagheri/fagheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
